@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E6DF23D206D17CD007D300E /* 5_3_1.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8E6DF23C206D17CC007D300E /* 5_3_1.csv */; };
+		8E6DF241206D1BAF007D300E /* STRONGLIFT5X5.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8E6DF240206D1BAF007D300E /* STRONGLIFT5X5.csv */; };
+		8E6DF243206D2637007D300E /* wilksChart.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E6DF242206D2637007D300E /* wilksChart.png */; };
+		8E7384BE206C15DD00FD1FD6 /* DayTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7384BD206C15DD00FD1FD6 /* DayTableViewCell.swift */; };
+		8E82F55320645BE700E5183F /* CellTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E82F55220645BE700E5183F /* CellTableViewController.swift */; };
+		8E82F55720655AE700E5183F /* ViewControllerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E82F55620655AE700E5183F /* ViewControllerCell.swift */; };
+		8E82F55920655E5D00E5183F /* ViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E82F55820655E5D00E5183F /* ViewControllerTableViewCell.swift */; };
+		8E82F55B2069682800E5183F /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E82F55A2069682800E5183F /* Workout.swift */; };
+		8E82F55D20696DE700E5183F /* CANDITO.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8E82F55C20696DE700E5183F /* CANDITO.csv */; };
+		8EB3DA8E205B7318007DC148 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB3DA8D205B7318007DC148 /* ThirdViewController.swift */; };
+		8EB3DA90205B7351007DC148 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB3DA8F205B7351007DC148 /* FourthViewController.swift */; };
+		8EB3DA92205C1825007DC148 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB3DA91205C1825007DC148 /* User.swift */; };
+		8ED6C2B0206C8485000BC24D /* insideDayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED6C2AF206C8485000BC24D /* insideDayViewController.swift */; };
+		8ED6C2B2206C9F66000BC24D /* InsideDayTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED6C2B1206C9F66000BC24D /* InsideDayTableViewCell.swift */; };
 		8EFD689C2058622400BD51E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFD689B2058622400BD51E2 /* AppDelegate.swift */; };
 		8EFD689E2058622400BD51E2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFD689D2058622400BD51E2 /* FirstViewController.swift */; };
 		8EFD68A02058622400BD51E2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFD689F2058622400BD51E2 /* SecondViewController.swift */; };
@@ -15,6 +29,7 @@
 		8EFD68A82058622400BD51E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EFD68A62058622400BD51E2 /* LaunchScreen.storyboard */; };
 		8EFD68B32058622400BD51E2 /* PowerPalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFD68B22058622400BD51E2 /* PowerPalTests.swift */; };
 		8EFD68BE2058622400BD51E2 /* PowerPalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFD68BD2058622400BD51E2 /* PowerPalUITests.swift */; };
+		C59803F32190D7832776F27A /* Pods_PowerPal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF0659350B114192E028BAE5 /* Pods_PowerPal.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +50,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2944913ED01F98BD3DFBB6F1 /* Pods-PowerPal.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PowerPal.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PowerPal/Pods-PowerPal.debug.xcconfig"; sourceTree = "<group>"; };
+		8E6DF23C206D17CC007D300E /* 5_3_1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 5_3_1.csv; sourceTree = "<group>"; };
+		8E6DF240206D1BAF007D300E /* STRONGLIFT5X5.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = STRONGLIFT5X5.csv; sourceTree = "<group>"; };
+		8E6DF242206D2637007D300E /* wilksChart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wilksChart.png; sourceTree = "<group>"; };
+		8E7384BD206C15DD00FD1FD6 /* DayTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DayTableViewCell.swift; path = /Users/averyspeller/Documents/school/4500/A4/PowerPal/PowerPal/DayTableViewCell.swift; sourceTree = "<absolute>"; };
+		8E82F55220645BE700E5183F /* CellTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTableViewController.swift; sourceTree = "<group>"; };
+		8E82F55620655AE700E5183F /* ViewControllerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCell.swift; sourceTree = "<group>"; };
+		8E82F55820655E5D00E5183F /* ViewControllerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTableViewCell.swift; sourceTree = "<group>"; };
+		8E82F55A2069682800E5183F /* Workout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout.swift; sourceTree = "<group>"; };
+		8E82F55C20696DE700E5183F /* CANDITO.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CANDITO.csv; sourceTree = "<group>"; };
+		8EB3DA8D205B7318007DC148 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		8EB3DA8F205B7351007DC148 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		8EB3DA91205C1825007DC148 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		8ED6C2AF206C8485000BC24D /* insideDayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = insideDayViewController.swift; sourceTree = "<group>"; };
+		8ED6C2B1206C9F66000BC24D /* InsideDayTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideDayTableViewCell.swift; sourceTree = "<group>"; };
 		8EFD68982058622300BD51E2 /* PowerPal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PowerPal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EFD689B2058622400BD51E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EFD689D2058622400BD51E2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +79,8 @@
 		8EFD68B92058622400BD51E2 /* PowerPalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PowerPalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EFD68BD2058622400BD51E2 /* PowerPalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerPalUITests.swift; sourceTree = "<group>"; };
 		8EFD68BF2058622400BD51E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF0659350B114192E028BAE5 /* Pods_PowerPal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PowerPal.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F88C915D8B8908538F7B6DB6 /* Pods-PowerPal.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PowerPal.release.xcconfig"; path = "Pods/Target Support Files/Pods-PowerPal/Pods-PowerPal.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C59803F32190D7832776F27A /* Pods_PowerPal.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,13 +109,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		43119BCA7866CFFEE46F5347 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2944913ED01F98BD3DFBB6F1 /* Pods-PowerPal.debug.xcconfig */,
+				F88C915D8B8908538F7B6DB6 /* Pods-PowerPal.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		8EFD688F2058622300BD51E2 = {
 			isa = PBXGroup;
 			children = (
+				8E82F55220645BE700E5183F /* CellTableViewController.swift */,
 				8EFD689A2058622300BD51E2 /* PowerPal */,
 				8EFD68B12058622400BD51E2 /* PowerPalTests */,
 				8EFD68BC2058622400BD51E2 /* PowerPalUITests */,
 				8EFD68992058622300BD51E2 /* Products */,
+				43119BCA7866CFFEE46F5347 /* Pods */,
+				FDACD047D59E85C46D2E94C4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,10 +144,23 @@
 		8EFD689A2058622300BD51E2 /* PowerPal */ = {
 			isa = PBXGroup;
 			children = (
+				8E6DF240206D1BAF007D300E /* STRONGLIFT5X5.csv */,
+				8E6DF23C206D17CC007D300E /* 5_3_1.csv */,
+				8E82F55C20696DE700E5183F /* CANDITO.csv */,
+				8E7384BD206C15DD00FD1FD6 /* DayTableViewCell.swift */,
+				8E82F55620655AE700E5183F /* ViewControllerCell.swift */,
+				8E82F55820655E5D00E5183F /* ViewControllerTableViewCell.swift */,
 				8EFD689B2058622400BD51E2 /* AppDelegate.swift */,
 				8EFD689D2058622400BD51E2 /* FirstViewController.swift */,
 				8EFD689F2058622400BD51E2 /* SecondViewController.swift */,
+				8EB3DA8D205B7318007DC148 /* ThirdViewController.swift */,
+				8E6DF242206D2637007D300E /* wilksChart.png */,
+				8EB3DA8F205B7351007DC148 /* FourthViewController.swift */,
+				8EB3DA91205C1825007DC148 /* User.swift */,
+				8E82F55A2069682800E5183F /* Workout.swift */,
 				8EFD68A12058622400BD51E2 /* Main.storyboard */,
+				8ED6C2AF206C8485000BC24D /* insideDayViewController.swift */,
+				8ED6C2B1206C9F66000BC24D /* InsideDayTableViewCell.swift */,
 				8EFD68A42058622400BD51E2 /* Assets.xcassets */,
 				8EFD68A62058622400BD51E2 /* LaunchScreen.storyboard */,
 				8EFD68A92058622400BD51E2 /* Info.plist */,
@@ -128,6 +186,14 @@
 			path = PowerPalUITests;
 			sourceTree = "<group>";
 		};
+		FDACD047D59E85C46D2E94C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DF0659350B114192E028BAE5 /* Pods_PowerPal.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +201,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8EFD68C22058622400BD51E2 /* Build configuration list for PBXNativeTarget "PowerPal" */;
 			buildPhases = (
+				3BEF578D702DFA9CC2DEA0AF /* [CP] Check Pods Manifest.lock */,
 				8EFD68942058622300BD51E2 /* Sources */,
 				8EFD68952058622300BD51E2 /* Frameworks */,
 				8EFD68962058622300BD51E2 /* Resources */,
+				7E47008B34E5693A91778892 /* [CP] Embed Pods Frameworks */,
+				276886F7DB0CA220793FB43F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -236,8 +305,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EFD68A82058622400BD51E2 /* LaunchScreen.storyboard in Resources */,
+				8E6DF241206D1BAF007D300E /* STRONGLIFT5X5.csv in Resources */,
 				8EFD68A52058622400BD51E2 /* Assets.xcassets in Resources */,
 				8EFD68A32058622400BD51E2 /* Main.storyboard in Resources */,
+				8E6DF23D206D17CD007D300E /* 5_3_1.csv in Resources */,
+				8E6DF243206D2637007D300E /* wilksChart.png in Resources */,
+				8E82F55D20696DE700E5183F /* CANDITO.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +330,60 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		276886F7DB0CA220793FB43F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PowerPal/Pods-PowerPal-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3BEF578D702DFA9CC2DEA0AF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PowerPal-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7E47008B34E5693A91778892 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-PowerPal/Pods-PowerPal-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Charts/Charts.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Charts.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PowerPal/Pods-PowerPal-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		8EFD68942058622300BD51E2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -264,7 +391,17 @@
 			files = (
 				8EFD68A02058622400BD51E2 /* SecondViewController.swift in Sources */,
 				8EFD689C2058622400BD51E2 /* AppDelegate.swift in Sources */,
+				8EB3DA92205C1825007DC148 /* User.swift in Sources */,
+				8E82F55B2069682800E5183F /* Workout.swift in Sources */,
+				8ED6C2B2206C9F66000BC24D /* InsideDayTableViewCell.swift in Sources */,
+				8E82F55720655AE700E5183F /* ViewControllerCell.swift in Sources */,
+				8ED6C2B0206C8485000BC24D /* insideDayViewController.swift in Sources */,
+				8EB3DA8E205B7318007DC148 /* ThirdViewController.swift in Sources */,
 				8EFD689E2058622400BD51E2 /* FirstViewController.swift in Sources */,
+				8EB3DA90205B7351007DC148 /* FourthViewController.swift in Sources */,
+				8E7384BE206C15DD00FD1FD6 /* DayTableViewCell.swift in Sources */,
+				8E82F55320645BE700E5183F /* CellTableViewController.swift in Sources */,
+				8E82F55920655E5D00E5183F /* ViewControllerTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,6 +565,7 @@
 		};
 		8EFD68C32058622400BD51E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2944913ED01F98BD3DFBB6F1 /* Pods-PowerPal.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -442,6 +580,7 @@
 		};
 		8EFD68C42058622400BD51E2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F88C915D8B8908538F7B6DB6 /* Pods-PowerPal.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
